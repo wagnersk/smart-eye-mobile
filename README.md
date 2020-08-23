@@ -56,7 +56,7 @@ Design feito por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-3
     <td colspan="2">Mobile</td>
   </tr>
   <tr>
- <td><img src="https://github.com/wagnersk/smart-eye/blob/master/images/smart-eye.gif" width=200 /></td>
+ <td><img src="https://github.com/wagnersk/smart-eye-mobile/blob/master/images/smart-eye.gif" width=200 /></td>
   </tr>
 </table>
 
@@ -74,6 +74,6 @@ ir para pasta 'mobile' para rodar o Front-end com expo
 - Rodar Aplicação: `yarn start`
 
 
-## 📕 Licença
+## 📕 Autor
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+[Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)
