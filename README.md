@@ -27,10 +27,23 @@
 - [Executar esse projeto no seu computador](#-Executar-esse-projeto-no-seu-computador)
 - [Licença](#-licença)
 
+
+
 ## 💡 Sobre o Projeto
 
-Smart Eye, making your life easier. <br>
-É um projeto para monitoramento prático de ambientes com temperatura controlada
+<br>
+
+**SMART EYE  _making your life easier._**
+
+<br>
+
+> É um projeto de monitoramento prático para ambientes com temperatura controlada.<br>
+
+> Este repositório não tem fins lucrativos , apenas refere-se a parte front-end utilizando-se de React Native.
+
+<br><br>
+
+
 
 ## 🚀 Tecnologias utilizadas
 
