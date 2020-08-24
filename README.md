@@ -9,7 +9,7 @@
 
 *Fatores primordiais para acreditar 100% no que o GoStack13*
 
-<br><br>
+<br>
 
 
 💻 **Acesse a [API-Heroku](https://github.com/wagnersk/smart-eye-api-heroku)** | 
