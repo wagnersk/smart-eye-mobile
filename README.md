@@ -3,23 +3,20 @@
 
 <br>
 
+💻 **Acesse a [API-Heroku](https://github.com/wagnersk/smart-eye-api-heroku)** | 
+🖥 **Acesse o [Projeto Raspberry](https://github.com/wagnersk/smart-eye-raspberry-dht-11)** | 
+📱 Você está em *Mobile* |
+
 <br>
 
-> Projeto inicial para fins didáticos, utilizando-se apenas de conhecimentos do curso starter, canal da rocketseat no youtube e muito google.
+> Projeto inicial para fins didáticos, utilizando-se apenas de conhecimentos do curso starter e canal no youtube da rocketseat e muito google.
 
-<br>
+                                  Fatores primordiais para acreditar 100% no trabalho da Rocketseat 
 
-                                   Fatores primordiais para acreditar 100% no trabalho da Rocketseat 
 
 <br>
 
 <img src="https://github.com/wagnersk/smart-eye-mobile/blob/master/image/fluxograma1.png" width="700" />
-
-<br>
-
-💻 **Acesse a [API-Heroku](https://github.com/wagnersk/smart-eye-api-heroku)** | 
-🖥 **Acesse o [Projeto Raspberry](https://github.com/wagnersk/smart-eye-raspberry-dht-11)** | 
-📱 Você está em *Mobile* |
 
 <br>
 
