@@ -16,7 +16,7 @@
 🖥 **Acesse o [Projeto Raspberry](https://github.com/wagnersk/smart-eye-raspberry-dht-11)** | 
 📱 Você está em *Mobile* |
 
-<br>
+<br><br>
 
 
 ## 📑 Índice
@@ -27,7 +27,7 @@
 - [Executar esse projeto no seu computador](#-Executar-esse-projeto-no-seu-computador)
 - [Licença](#-licença)
 
-
+<br><br>
 
 ## 💡 Sobre o Projeto
 
@@ -42,8 +42,6 @@
 > Este repositório não tem fins lucrativos , apenas refere-se a parte front-end utilizando-se de React Native.
 
 <br><br>
-
-
 
 ## 🚀 Tecnologias utilizadas
 
@@ -67,10 +65,9 @@ Design feito por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-3
   </tr>
 </table>
 
-
+<br><br>
 
 ## 📥 Como configurar o emulador Android no meu computador?
-
 
 *Este projeto foi 100% baseado na técnica ensinada pela **rocketseat** *
 
@@ -78,12 +75,9 @@ Design feito por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-3
 
 [![Watch the video](https://github.com/wagnersk/smart-eye-api-heroku/blob/master/image/youtubeloading.jpeg)](https://www.youtube.com/watch?v=ZaDpDlPr25M)
 
-<br>
 *Você irá aprender como criar um banco de dados na núvem gratis e fazer deploy do seu back-end em um servidor também grátis*
 
 <br><br>
-
-
 
 ## 📥 Executar esse projeto no seu computador
 
@@ -95,6 +89,7 @@ Design feito por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-3
 
 - Rodar Aplicação: `yarn start`
 
+<br><br>
 
 ## 📕 Autor
 
