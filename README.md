@@ -1,24 +1,20 @@
-<p align="center">
-  <h1> O projeto Smart-eye foi desenvolvido por Wagner Sobreira</h1>
+
+# O projeto Smart-eye foi desenvolvido por Wagner Sobreira
 
 <br>
-<h4> Projeto inicial para fins didáticos, utilizando-se apenas de conhecimentos do curso starter, canal da rocketseat no youtube e muito google.<br><br>
-Fatores primordiais para acreditar 100% no que o GoStack13</h4>
-</p>
+
+### Projeto inicial para fins didáticos, utilizando-se apenas de conhecimentos do curso starter, canal da rocketseat no youtube e muito google.
+
+<br>
+
+> Fatores primordiais para acreditar 100% no que o GoStack13
+
 <br><br>
 
 💻 **Acesse a [API-Heroku](https://github.com/wagnersk/smart-eye-api-heroku)** | 
 🖥 **Acesse o [Projeto Raspberry](https://github.com/wagnersk/smart-eye-raspberry-dht-11)** | 
 📱 Você está em *Mobile* |
 
-
-<div align="center">
-
-<br><br>
-
-
-
-</div>
 
 
 ## 📑 Índice
