@@ -3,6 +3,8 @@
 
 <br>
 
+<br>
+
 > Projeto inicial para fins didáticos, utilizando-se apenas de conhecimentos do curso starter, canal da rocketseat no youtube e muito google.
 
 <br>
@@ -11,6 +13,9 @@
 
 <br>
 
+<img src="https://github.com/wagnersk/smart-eye-mobile/blob/master/image/fluxograma1.png" width="700" />
+
+<br>
 
 💻 **Acesse a [API-Heroku](https://github.com/wagnersk/smart-eye-api-heroku)** | 
 🖥 **Acesse o [Projeto Raspberry](https://github.com/wagnersk/smart-eye-raspberry-dht-11)** | 
@@ -28,7 +33,7 @@
 - [Referências](#-referências)
 - [Autor](#%EF%B8%8F--autor)
 
-<br><br>
+<br>
 
 ## 💡 Sobre o Projeto
 
