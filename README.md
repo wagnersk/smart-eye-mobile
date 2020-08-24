@@ -76,7 +76,7 @@ Design feito por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-3
 
 <br>
 
-[![Watch the video](https://github.com/wagnersk/smart-eye-api-heroku/blob/master/image/youtubeloading.jpeg)](https://www.youtube.com/watch?v=ZaDpDlPr25M&t=1798s)
+[![Watch the video](https://github.com/wagnersk/smart-eye-api-heroku/blob/master/image/youtubeloading.jpeg)](https://www.youtube.com/watch?v=ZaDpDlPr25M)
 
 <br>
 *Você irá aprender como criar um banco de dados na núvem gratis e fazer deploy do seu back-end em um servidor também grátis*
