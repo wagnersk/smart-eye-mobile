@@ -23,7 +23,9 @@
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Design](#-design)
-- [Executar esse projeto no seu computador](#-Executar-esse-projeto-no-seu-computador)
+- [Como configurar o emulador do Android Studio no meu computador?](#-como-configurar-o-emulador-do-android-studio-no-meu-computador)
+- [Como executar esse projeto em seu computador](#-como-executar-esse-projeto-em-seu-computador)
+- [Referências](#-referências)
 - [Autor](#%EF%B8%8F--autor)
 
 <br><br>
@@ -78,7 +80,7 @@ Design feito por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-3
 
 <br><br>
 
-## 📥 Executar esse projeto no seu computador
+## 📥 Como executar esse projeto em seu computador?
 
 - Clonar Repositório: `git clone https://github.com/wagnersk/smart-eye-mobile`
 
@@ -90,6 +92,20 @@ Design feito por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-3
 
 <br><br>
 
-## 📕 Autor
+## 📕 Referências
+
+Vídeo explicativo da rocketseat de como configurar o Expo SDK 38.0 e suas vantagens 
+
+[https://www.youtube.com/watch?v=ZaDpDlPr25M](https://www.youtube.com/watch?v=ZaDpDlPr25M)
+
+
+Tutorial da Rocketseat de como configurar seu computador por completo para rodar react native e o emulador do android studio
+
+[https://react-native.rocketseat.dev/](https://react-native.rocketseat.dev/)
+
+<br><br>
+
+
+## 😎️  Autor
 
 [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)
