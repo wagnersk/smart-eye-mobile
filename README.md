@@ -7,7 +7,7 @@
 
 <br>
 
-                                           Fatores primordiais para acreditar 100% no que o GoStack13
+                                           Fatores primordiais para acreditar 100% no trabalho da Rocketseat 
 
 <br>
 
