@@ -23,7 +23,7 @@
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Design](#-design)
-- [Como configurar o emulador do Android Studio no meu computador?](#-como-configurar-o-emulador-do-android-studio-no-meu-computador?)
+- [Como configurar o emulador do Android Studio no meu computador?](#-como-configurar-o-emulador-do-android-studio-no-meu-computador)
 - [Como executar esse projeto em seu computador](#-como-executar-esse-projeto-em-seu-computador)
 - [Referências](#-referências)
 - [Autor](#%EF%B8%8F--autor)
@@ -68,7 +68,7 @@ Design feito por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-3
 
 <br><br>
 
-## 📥 Como configurar o emulador Android no meu computador?
+## 📥 Como configurar o emulador android no meu computador?
 
 *Este projeto foi 100% baseado na técnica ensinada pela* **rocketseat** 
 
