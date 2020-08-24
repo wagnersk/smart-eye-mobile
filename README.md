@@ -1,3 +1,5 @@
+> Projeto inicial para fins didáticos, utilizando-se apenas de conhecimentos do curso starter e canal no youtube da rocketseat e muito google.
+
 
 *O projeto Smart-eye foi desenvolvido por* **Wagner Sobreira**
 
@@ -11,8 +13,6 @@
 
                                   Fatores primordiais para acreditar 100% no trabalho da Rocketseat 
                                                                   
-> Projeto inicial para fins didáticos, utilizando-se apenas de conhecimentos do curso starter e canal no youtube da rocketseat e muito google.
-
 <br>
 
 <img src="https://github.com/wagnersk/smart-eye-mobile/blob/master/image/fluxograma1.png" width="700" />
