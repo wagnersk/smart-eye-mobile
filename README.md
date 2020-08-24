@@ -8,15 +8,12 @@ Fatores primordiais para acreditar 100% no que o GoStack13</h4>
 <br><br>
 <h1 align="center">Como criar esse projeto do zero</h1> 
 <div align="center">
-Acesse os Readmes com passo a passo, divididos em Back-end-api-heroku, Back-end-raspberry-dht11 e Mobile:  <br><br>
 
-💻 **Acesse o Back-end-api [aqui](https://github.com/wagnersk/smart-eye/tree/master/backend-api)** | 
-🖥 **Acesse o Back-end-raspberry [aqui](https://github.com/wagnersk/smart-eye/tree/master/backend-raspberry)** | 
-📱 **Acesse o Mobile [aqui](https://github.com/wagnersk/smart-eye/tree/master/mobile)** |
+<br><br>
 
 💻 **Acesse a [API-Heroku](https://github.com/wagnersk/smart-eye-api-heroku)** | 
 🖥 **Acesse o [Projeto Raspberry](https://github.com/wagnersk/smart-eye-raspberry-dht-11)** | 
-📱 Você está em *Mobile*|
+📱 Você está em *Mobile* |
 
 
 
