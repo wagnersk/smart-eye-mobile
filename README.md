@@ -23,7 +23,7 @@
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Design](#-design)
-- [Como configurar o emulador do Android Studio no meu computador?](#-como-configurar-o-emulador-do-android-studio-no-meu-computador)
+- [Como configurar o emulador do Android Studio no meu computador?](#question-como-configurar-o-emulador-android-no-meu-computador)
 - [Como executar esse projeto em seu computador](#-como-executar-esse-projeto-em-seu-computador)
 - [Referências](#-referências)
 - [Autor](#%EF%B8%8F--autor)
