@@ -7,7 +7,7 @@
 
 <br>
 
-                                           Fatores primordiais para acreditar 100% no trabalho da Rocketseat 
+                                   Fatores primordiais para acreditar 100% no trabalho da Rocketseat 
 
 <br>
 
