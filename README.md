@@ -4,8 +4,9 @@
 
 > Projeto inicial para fins didáticos, utilizando-se apenas de conhecimentos do curso starter e canal no youtube da rocketseat e muito google.
 
+<br>
 
-*O projeto Smart-eye foi desenvolvido por* **Wagner Sobreira**
+*O projeto Smart-eye foi desenvolvido por* **[Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)**
 
 <br>
 
