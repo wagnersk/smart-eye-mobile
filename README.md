@@ -68,7 +68,7 @@ Design feito por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-3
 
 <br><br>
 
-## 📥 Como configurar o emulador android no meu computador?
+## :question: Como configurar o emulador android no meu computador?
 
 *Este projeto foi 100% baseado na técnica ensinada pela* **rocketseat** 
 
