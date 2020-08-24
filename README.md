@@ -6,17 +6,15 @@
 Fatores primordiais para acreditar 100% no que o GoStack13</h4>
 </p>
 <br><br>
-<h1 align="center">Como criar esse projeto do zero</h1> 
-<div align="center">
-
-<br><br>
 
 💻 **Acesse a [API-Heroku](https://github.com/wagnersk/smart-eye-api-heroku)** | 
 🖥 **Acesse o [Projeto Raspberry](https://github.com/wagnersk/smart-eye-raspberry-dht-11)** | 
 📱 Você está em *Mobile* |
 
 
+<div align="center">
 
+<br><br>
 
 
 
