@@ -63,7 +63,7 @@ Design feito por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-3
     <td colspan="2">Mobile</td>
   </tr>
   <tr>
- <td><img src="https://github.com/wagnersk/smart-eye-mobile/blob/master/image/smart-eye.gif"/></td>
+ <td><img src="https://github.com/wagnersk/smart-eye-mobile/blob/master/image/smart-eye.gif" width="200" /></td>
   </tr>
 </table>
 
