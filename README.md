@@ -24,7 +24,7 @@
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Design](#-design)
 - [Executar esse projeto no seu computador](#-Executar-esse-projeto-no-seu-computador)
-- [Licença](#-licença)
+- [Autor](#%EF%B8%8F--autor)
 
 <br><br>
 
@@ -68,7 +68,7 @@ Design feito por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-3
 
 ## 📥 Como configurar o emulador Android no meu computador?
 
-*Este projeto foi 100% baseado na técnica ensinada pela **rocketseat** *
+*Este projeto foi 100% baseado na técnica ensinada pela* **rocketseat** 
 
 <br>
 
