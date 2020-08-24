@@ -16,9 +16,6 @@
 🖥 **Acesse o [Projeto Raspberry](https://github.com/wagnersk/smart-eye-raspberry-dht-11)** | 
 📱 Você está em *Mobile* |
 
-<br><br>
-
-
 ## 📑 Índice
 
 - [Sobre o Projeto](#-sobre-o-projeto)
