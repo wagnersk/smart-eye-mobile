@@ -3,7 +3,7 @@
 
 <br>
 
-#### Projeto inicial para fins didáticos, utilizando-se apenas de conhecimentos do curso starter, canal da rocketseat no youtube e muito google.
+*Projeto inicial para fins didáticos, utilizando-se apenas de conhecimentos do curso starter, canal da rocketseat no youtube e muito google.*
 
 <br>
 
