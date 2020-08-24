@@ -1,5 +1,5 @@
 
-# O projeto Smart-eye foi desenvolvido por Wagner Sobreira
+*O projeto Smart-eye foi desenvolvido por* **Wagner Sobreira**
 
 <br>
 
@@ -15,6 +15,8 @@
 💻 **Acesse a [API-Heroku](https://github.com/wagnersk/smart-eye-api-heroku)** | 
 🖥 **Acesse o [Projeto Raspberry](https://github.com/wagnersk/smart-eye-raspberry-dht-11)** | 
 📱 Você está em *Mobile* |
+
+<br>
 
 ## 📑 Índice
 
