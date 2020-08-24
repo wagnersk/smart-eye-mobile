@@ -1,10 +1,10 @@
+<br>
 
 # O projeto Smart-eye foi desenvolvido por Wagner Sobreira
 
 #### Projeto inicial para fins didáticos, utilizando-se apenas de conhecimentos do curso starter, canal da rocketseat no youtube e muito google.
 
-<br><br>
-
+<br>
 
 > Fatores primordiais para acreditar 100% no que o GoStack13
 
